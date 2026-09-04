@@ -45,7 +45,7 @@
             {
                 "name": "Main Stream",
                 "format": "HLS",
-                "url": "https:\/\/hls-cdn77.xnxx-cdn.com\/n_kf_sBNVQXvsC0pKOV1Yw==,1788511961\/0316deea-a52a-43b4-8166-40c3b7af3756\/0\/hls.m3u8",
+                "url": "https:\/\/video-am.xhcdn.com\/qgj7bY1hP6qcNxV39Dn-Ng==,1788534000\/media=hls4\/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:\/029\/031\/785\/_TPL_.av1.mp4.m3u8",
                 "drm": "No DRM"
             }
         ],
@@ -54,7 +54,7 @@
         "published": true,
         "published_at": "2026-09-03T09:05:59.000000Z",
         "created_at": "2026-09-03T09:05:59.000000Z",
-        "updated_at": "2026-09-04T05:53:14.000000Z",
+        "updated_at": "2026-09-04T11:28:17.000000Z",
         "display_order": null,
         "category": {
             "id": 1,
