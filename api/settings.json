@@ -1,7 +1,7 @@
 {
     "privacy_policy_text": "drhrtfh",
     "telegram_url": "https:\/\/t.me\/freelitv",
-    "apk_download_url": "https:\/\/www.freelitv.com\/freeli-tv.apk",
+    "apk_download_url": "https:\/\/github.com\/freelitvapp-eng\/xvelhub\/releases\/download\/1\/app-release.apk",
     "landing_screenshot": "https:\/\/movieboxproapk.download\/wp-content\/uploads\/allow-movieboxpro-apk-notification.jpg",
     "meta_title": "XVELHUB - Free Porn Videos  Android App | Download APK ",
     "meta_description": "Stream your favorite content securely with XVELHUB. Built-in App Lock, Telegram integration, and Smooth HD Playback.",
@@ -12,7 +12,7 @@
     "hero_description": "XVELHUB provides smooth HD streaming with top-tier security. Secure your app with built-in Passcode & Fingerprint lock, stay updated via Telegram, and watch content with zero interruptions.",
     "app_name": "XVELHUB",
     "app_version": "v1.0.0",
-    "app_size": "9.5 MB",
+    "app_size": "12.6 MB",
     "app_requirement": "Android 6.0+",
     "app_category": "Entertainment",
     "app_price": "Free",
@@ -20,5 +20,6 @@
     "app_update_title": "New Update Available!",
     "app_update_description": "We have added new features and fixed bugs. Please update the app to continue.",
     "app_update_url": "http:\/\/localhost:8000\/",
-    "app_update_force": "true"
+    "app_update_force": "true",
+    "favicon_url": null
 }
