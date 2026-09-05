@@ -11,7 +11,7 @@
             {
                 "name": "Main Stream",
                 "format": "MP4",
-                "url": "https:\/\/video-nss.flixcdn.com\/GsrYuyISrgRw5zM51VJfsw==,1788606000\/Kk\/Kk1Kv1\/trailer\/2160.mp4",
+                "url": "https:\/\/ip226156499.ahcdn.com\/key=JOdBEe67P1DQO3nAOiRd2w,s=,,end=1788590757\/state=apupJAQcQAG-9wL5-XR6\/buffer=1801230:3675965,884.3\/speed=360246\/reftag=0369021698\/8\/5027\/1\/369950721\/contents\/videos2\/contents\/videos2\/136000\/136675\/136675_hd_720p.mp4?cdn_hash=97c87d46af30b46508042cf3f088a45a&cdn_creation_time=1788586273&cdn_ttl=172800&cdn_bw=360192&cdn_bw_fs=3518k",
                 "drm": "No DRM"
             }
         ],
@@ -20,7 +20,7 @@
         "published": true,
         "published_at": null,
         "created_at": "2026-09-03T18:56:33.000000Z",
-        "updated_at": "2026-09-05T05:21:06.000000Z",
+        "updated_at": "2026-09-05T05:32:25.000000Z",
         "display_order": 1,
         "category": {
             "id": 2,
