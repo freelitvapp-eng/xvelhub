@@ -1,36 +1,36 @@
 [
     {
         "id": 1,
-        "category_id": 1,
-        "title": "Sample Action Movie",
-        "slug": "sample-action-movie",
+        "category_id": 2,
+        "title": "Fake Agent bangs an Indian girl Marina Maya during the casting",
+        "slug": "Fake Agent bangs an Indian girl Marina Maya during the casting",
         "description": "A demo action movie for testing VELVET player integration.",
-        "thumbnail": "https:\/\/pornmate.com\/wp-content\/small-videos\/f6f8f58e1abb.webm",
-        "banner": "https:\/\/pornmate.com\/wp-content\/small-videos\/f6f8f58e1abb.webm",
+        "thumbnail": "https:\/\/pornmate.com\/wp-content\/uploads\/2020\/04\/mqN29PLVbeaAaGwObaaaamhln6JQEqhFGaj7O0J0-300x169.jpg",
+        "banner": "https:\/\/pornmate.com\/wp-content\/uploads\/2020\/04\/mqN29PLVbeaAaGwObaaaamhln6JQEqhFGaj7O0J0-300x169.jpg",
         "streams": [
             {
                 "name": "Main Stream",
-                "format": "MP4",
-                "url": "https:\/\/r4x.cdn77.shop\/178851111042114\/index.m3u8?expires=1788596162&sig=2124f14b8862c712293beed5aa5abe2b196ea2f18be2b91c5768af52fe238717",
+                "format": "HLS",
+                "url": "https:\/\/pornmate.com\/wp-content\/small-videos\/r5.mp4",
                 "drm": "No DRM"
             }
         ],
-        "duration_seconds": 596,
+        "duration_seconds": 694,
         "featured": true,
         "published": true,
         "published_at": "2026-09-03T09:05:59.000000Z",
         "created_at": "2026-09-03T09:05:59.000000Z",
-        "updated_at": "2026-09-05T11:20:56.000000Z",
+        "updated_at": "2026-09-05T11:26:48.000000Z",
         "display_order": null,
         "category": {
-            "id": 1,
-            "name": "Action Movies",
-            "slug": "action-movies",
-            "image": "https:\/\/ic-tt-nss.xhcdn.com\/a\/Zjc1MTE4YzQ0Y2Q2NWIxYzBiODBiMzZmNjk0ZTYxMTM\/s(w:640,h:360)\/tag\/000\/441\/503\/9a34e377.jpg",
+            "id": 2,
+            "name": "18 Years Old",
+            "slug": "18 Years Old",
+            "image": "https:\/\/ic-tt-nss.xhcdn.com\/a\/ZWJlYjAwYzBmYmI4NmEzZGM2MGVmZTgzOTE1OWU4NjA\/s(w:640,h:360)\/tag\/000\/000\/274\/e0ba1403.jpg",
             "active": true,
             "order": 0,
-            "created_at": "2026-09-03T09:05:59.000000Z",
-            "updated_at": "2026-09-03T17:23:06.000000Z"
+            "created_at": "2026-09-03T17:57:18.000000Z",
+            "updated_at": "2026-09-03T17:57:18.000000Z"
         }
     },
     {
