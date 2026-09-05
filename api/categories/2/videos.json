@@ -79,7 +79,7 @@
             {
                 "name": "Main Stream",
                 "format": "MP4",
-                "url": "https:\/\/ip225417640.ahcdn.com\/key=li8M7K-++Ab+nXFztTAzlQ,s=,end=1788611938\/state=apv-Z7cQ\/buffer=1157836:1537911,487.0\/speed=231567\/reftag=162184150\/ssd1\/153\/4\/495287084\/c\/51000\/51998\/51998_720.mp4",
+                "url": "https:\/\/nvms9.cdn.privatehost.com\/32000\/32996\/32996_480p.mp4?&lr=205k&lra=2000k&c=9342677425096065864979360532022897700&exp_time=1788615865&sign=661990df2308d984842ec00266f97649",
                 "drm": "No DRM"
             }
         ],
@@ -88,7 +88,7 @@
         "published": true,
         "published_at": null,
         "created_at": "2026-09-03T18:56:33.000000Z",
-        "updated_at": "2026-09-05T11:39:47.000000Z",
+        "updated_at": "2026-09-05T11:44:53.000000Z",
         "display_order": 1,
         "category": {
             "id": 2,
