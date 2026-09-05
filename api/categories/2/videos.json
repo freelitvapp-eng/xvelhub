@@ -45,7 +45,7 @@
             {
                 "name": "Main Stream",
                 "format": "HLS",
-                "url": "https:\/\/video-nss.xhcdn.com\/toxWjwvth1OYs9oZWLMTDA==,1788516000\/media=hls4\/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:\/028\/959\/490\/_TPL_.av1.mp4.m3u8",
+                "url": "https:\/\/svacdn77.tsyndicate.com\/cCgacifHmpU8V3OHcW1-Sg==,1788586605\/media=hlsA\/multi=650x360:650x360,452x250:450x250\/videos\/e\/3\/3bfb9f16a408863c4451df24b361ab6da8ff3b\/_TPL_.mp4",
                 "drm": "No DRM"
             }
         ],
@@ -54,7 +54,7 @@
         "published": true,
         "published_at": null,
         "created_at": "2026-09-04T06:05:56.000000Z",
-        "updated_at": "2026-09-04T06:05:56.000000Z",
+        "updated_at": "2026-09-05T05:37:55.000000Z",
         "display_order": 1,
         "category": {
             "id": 2,
@@ -79,7 +79,7 @@
             {
                 "name": "Main Stream",
                 "format": "HLS",
-                "url": "https:\/\/video-nss.xhcdn.com\/Wa4SLsZdc4ThccnFCxhsOA==,1788516000\/media=hls4\/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:\/022\/953\/896\/_TPL_.av1.mp4.m3u8",
+                "url": "https:\/\/hls-cdn77.others-cdn.com\/MV3cR_fLo8J9zNABSJCfqA==,1788593941\/8244e74f-0a45-492a-8321-3e9a7bd093ef\/6\/hls-1080p-ef308.m3u8",
                 "drm": "No DRM"
             }
         ],
@@ -88,7 +88,7 @@
         "published": true,
         "published_at": null,
         "created_at": "2026-09-04T06:09:19.000000Z",
-        "updated_at": "2026-09-04T06:09:19.000000Z",
+        "updated_at": "2026-09-05T05:39:05.000000Z",
         "display_order": 1,
         "category": {
             "id": 2,
