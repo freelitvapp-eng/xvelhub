@@ -406,5 +406,39 @@
             "created_at": "2026-09-05T16:58:31.000000Z",
             "updated_at": "2026-09-05T16:58:44.000000Z"
         }
+    },
+    {
+        "id": 13,
+        "category_id": 3,
+        "title": "Sample Action Movie",
+        "slug": "evening-sports-collection",
+        "description": null,
+        "thumbnail": "https:\/\/ic-vt-nss.xhcdn.com\/a\/M2RmMDNkM2VkMWQ5Y2U3NDk0YmY1Y2IzYjE3ZmY5YTY\/s(w:526,h:298),webp\/029\/452\/271\/1280x720.17779631.jpg",
+        "banner": "https:\/\/ic-vt-nss.xhcdn.com\/a\/M2RmMDNkM2VkMWQ5Y2U3NDk0YmY1Y2IzYjE3ZmY5YTY\/s(w:526,h:298),webp\/029\/452\/271\/1280x720.17779631.jpg",
+        "streams": [
+            {
+                "name": "Main Stream",
+                "format": "MP4",
+                "url": "https:\/\/www.analdin.xxx\/get_file\/4\/155bcdf16b1e79011d5d7ee5175f5d82\/589000\/589995\/589995.mp4\/?rnd=1788678028060",
+                "drm": "No DRM"
+            }
+        ],
+        "duration_seconds": 0,
+        "featured": false,
+        "published": true,
+        "published_at": null,
+        "created_at": "2026-09-06T07:04:48.000000Z",
+        "updated_at": "2026-09-06T07:04:48.000000Z",
+        "display_order": 1,
+        "category": {
+            "id": 3,
+            "name": "indian",
+            "slug": "indian",
+            "image": "https:\/\/live.staticflickr.com\/8251\/8664399487_8de2a737ce_b.jpg",
+            "active": true,
+            "order": 1,
+            "created_at": "2026-09-05T11:51:19.000000Z",
+            "updated_at": "2026-09-05T11:59:09.000000Z"
+        }
     }
 ]
