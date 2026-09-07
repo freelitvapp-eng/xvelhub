@@ -440,5 +440,39 @@
             "created_at": "2026-09-03T09:05:59.000000Z",
             "updated_at": "2026-09-05T16:59:03.000000Z"
         }
+    },
+    {
+        "id": 14,
+        "category_id": 3,
+        "title": "Indian Bad Beauty - Indian",
+        "slug": "Indian Bad Beauty - Indian",
+        "description": null,
+        "thumbnail": "https:\/\/i.analdin.com\/contents\/videos_screenshots\/512000\/512262\/293x165\/23.jpg",
+        "banner": "https:\/\/i.analdin.com\/contents\/videos_screenshots\/512000\/512262\/293x165\/23.jpg",
+        "streams": [
+            {
+                "name": "Main Stream",
+                "format": "MP4",
+                "url": "https:\/\/www.analdin.xxx\/get_file\/3\/14fdc21655a2ccdc84576383d58af1c7\/512000\/512262\/512262hd.mp4\/?rnd=1788761775691",
+                "drm": "No DRM"
+            }
+        ],
+        "duration_seconds": 842,
+        "featured": false,
+        "published": true,
+        "published_at": null,
+        "created_at": "2026-09-07T06:20:36.000000Z",
+        "updated_at": "2026-09-07T06:20:36.000000Z",
+        "display_order": 1,
+        "category": {
+            "id": 3,
+            "name": "indian",
+            "slug": "indian",
+            "image": "https:\/\/live.staticflickr.com\/8251\/8664399487_8de2a737ce_b.jpg",
+            "active": true,
+            "order": 1,
+            "created_at": "2026-09-05T11:51:19.000000Z",
+            "updated_at": "2026-09-05T11:59:09.000000Z"
+        }
     }
 ]
